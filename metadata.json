@@ -1,0 +1,8 @@
+{
+  "name": "ComicCraft - AI Comic Book Generator",
+  "description": "Create personalized comic book stories, panel-by-panel illustrations, and download publication-ready PDFs with Gemini AI and comic art styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
